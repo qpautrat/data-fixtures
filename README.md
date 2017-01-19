@@ -1,3 +1,8 @@
+# Fork
+
+Fix missing schema issue in `Purger`.
+See [https://github.com/doctrine/data-fixtures/pull/192](#192)
+
 # Doctrine Data Fixtures Extension
 
 [![Build Status](https://travis-ci.org/doctrine/data-fixtures.png)](https://travis-ci.org/doctrine/data-fixtures)
